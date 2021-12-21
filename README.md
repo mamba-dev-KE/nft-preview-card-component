@@ -34,6 +34,7 @@ To translate the attached designs into a website with hover states included for 
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flexbox
+- CSS Grid
 - Mobile-first workflow
 
 ## Author
