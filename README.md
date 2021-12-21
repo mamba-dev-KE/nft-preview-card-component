@@ -12,24 +12,20 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+To translate the attached designs into a website with hover states included for interactive elements.
 
 ### Screenshot
 
-[screenshot.png](https://postimg.cc/9r9Sf5TY)
+[screenshot.png](https://postimg.cc/Vrjf1khz)
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/mamba-dev-KE/order-summary-component)
-- Live Site URL: [Add live site URL here](https://competent-jackson-729bd1.netlify.app/)
+- Solution URL: [GitHub](https://github.com/mamba-dev-KE/nft-preview-card-component)
+- Live Site URL: [Visit here](https://compassionate-borg-642250.netlify.app/)
 
 ## My process
 
